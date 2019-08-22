@@ -2797,6 +2797,11 @@ kind-of@^6.0.0, kind-of@^6.0.2:
   resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-6.0.2.tgz#01146b36a6218e64e58f3a8d66de5d7fc6f6d051"
   integrity sha512-s5kLOcnH0XqDO+FvuaLX8DDjZ18CGFk7VygH40QoKPUQhW4e2rvM0rwUq0t8IQDOwYSeLK01U90OjzBTme2QqA==
 
+kontra@^6.3.0:
+  version "6.3.0"
+  resolved "https://registry.yarnpkg.com/kontra/-/kontra-6.3.0.tgz#6fcb13c8e12d52e0d454383cecea983c0448d915"
+  integrity sha512-dRVLg5d1OB9oFcacHkvYEjjqLv2NiKvT6GvHNoo9iGbVBUNQRDVVTQKYgJbaAnC84lBqOWoq3rJJ9dzBYdTd3w==
+
 last-call-webpack-plugin@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/last-call-webpack-plugin/-/last-call-webpack-plugin-3.0.0.tgz#9742df0e10e3cf46e5c0381c2de90d3a7a2d7555"
